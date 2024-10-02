@@ -1,4 +1,4 @@
-# Praktikum Install and Configure SSH
+# Praktikum Install SSH dan Install PuTTY
 <h2>Nama			: Jihan Badiatus Shaliha <br/>
 NIM	          : 09011282328098<br/>
 Kelas			    : SK3B<br/>
